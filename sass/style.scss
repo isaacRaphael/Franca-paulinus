@@ -307,6 +307,13 @@ h1, h2, h3, h4, h5, h6, figure {
 		}
 	}
 }
+#fh5co-header{
+	.main-text{
+		@media screen and (max-width:480px){
+			font-size: 60px !important;
+		}
+	}
+}
 // #fh5co-header,
 // #fh5co-counter,
 // #fh5co-event,
@@ -1811,3 +1818,4 @@ form {
 		opacity: 0;
 	}
 }
+

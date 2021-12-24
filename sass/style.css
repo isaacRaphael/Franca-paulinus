@@ -236,6 +236,12 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #fff !important;
 }
 
+@media screen and (max-width: 480px) {
+  #fh5co-header .main-text {
+    font-size: 60px !important;
+  }
+}
+
 #fh5co-counter,
 #fh5co-event,
 .fh5co-bg {
