@@ -237,6 +237,13 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 @media screen and (max-width: 480px) {
+  #fh5co-header {
+    background-size: cover !important;
+    background-position: center center !important;
+  }
+}
+
+@media screen and (max-width: 480px) {
   #fh5co-header .main-text {
     font-size: 60px !important;
   }
